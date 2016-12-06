@@ -15,6 +15,7 @@ lidar:  hokuyo
 
 ##run
 > source install_isolated/setup.bash
+
 > turtlebot_navigation hokuyo_carto_turtlebot_test.launch
  
 
