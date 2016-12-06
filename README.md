@@ -2,7 +2,7 @@
 using google cartorprapher to mapping , using move_base to navigation. control turtlebot to mapping while navigation . 
 
 
-##instlal
+##install
     mkdir -p catkin_ws/src
     cd src
     git clone https://github.com/zhoujoey/cartographer_turtlebot_movebase.git
